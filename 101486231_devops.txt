@@ -10,4 +10,10 @@ I really appreciate how this course covers both technical tools and the cultural
 in a team. Thus, COMP 3104 introduced me to GitHub Actions, which has simplified my understanding of workflows and 
 automation. In such i never worked on github since beofre.
 ~
+COMP 3104 Devop course 
+Prof: Pritesh Patel
 
+By enabling continuous integration and deployment, DevOps ensures that software updates are delivered faster and 
+more reliably. Learning DevOps equips professionals with the skills to address challenges in modern software 
+development environments.
+~
