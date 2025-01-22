@@ -1,2 +1,6 @@
 DevOps is important as it bridges the gap between development and operations. It promotes faster delivery, improved 
 collaboration, and better-quality software.
+~
+One important thing learning DevOps is that Collaboration between teams, fostered by DevOps, eliminates silos and 
+promotes better communication throughout the SDLC.
+~
