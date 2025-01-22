@@ -6,3 +6,7 @@ George Brown College has 3 different branches in Toronto, Which is in Casa Loma 
 James Campus. Each of this campus has its own focal study such that Waterfront focus on Health and Science, St. 
 James focus on Business and Account and lastly Casa Loma for its Technology and Arts.
 ~
+The college's modern facilities and state-of-the-art labs provide students with tools that simulate real-world 
+scenarios. It also has a robust co-op program, allowing students to gain valuable work experience while 
+studying.
+~
