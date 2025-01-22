@@ -1,0 +1,4 @@
+DevOps introduces students to the practices and tools of DevOps, including continuous integration, 
+deployment, and monitoring. Focuses on automation, collaboration, and improving the software development 
+lifecycle.
+
