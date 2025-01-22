@@ -5,3 +5,9 @@ lifecycle.
 The course highlights the importance of collaboration between development and operations teams to streamline 
 workflows. Thus emphasizes the cultural changes required for DevOps adoption alongside technical skills.
 ~
+Opinion
+I really appreciate how this course covers both technical tools and the cultural shift needed to implement DevOps 
+in a team. Thus, COMP 3104 introduced me to GitHub Actions, which has simplified my understanding of workflows and 
+automation. In such i never worked on github since beofre.
+~
+
