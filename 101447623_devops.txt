@@ -5,6 +5,7 @@ At the end of the course the student will be abel to demonstrate.
 2. Apply DevOps tools, cloud databases, and techniques for software and network applications.
 
 3. Improve the software development lifecycle through IT collaboration and automated application configurations and operations.
+
 4. Leverage Version Control Systems for optimized, low-risk software releases and continuous code integration.
 5. Analyze and decide between monolithic and microservice architectures for software products.
 6. Continuously monitor and optimize DevOps processes through code quality checks and CI/CD pipelines.
