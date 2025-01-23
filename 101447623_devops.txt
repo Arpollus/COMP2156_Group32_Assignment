@@ -1,6 +1,7 @@
 At the end of the course the student will be abel to demonstrate.
 
 1. Effectively perform as a System or Network Engineer using DevOps processes, tools, and strategies like CI/CD, SDLC, and containerization for deployment.
+
 2. Apply DevOps tools, cloud databases, and techniques for software and network applications.
 3. Improve the software development lifecycle through IT collaboration and automated application configurations and operations.
 4. Leverage Version Control Systems for optimized, low-risk software releases and continuous code integration.
