@@ -1,0 +1,22 @@
+DevOps Overview
+DevOps introduces students to essential practices and tools, such as continuous
+ integration, deployment, and monitoring. It emphasizes automation, collaboration,
+ and enhancing the software development lifecycle.
+
+The course underscores the importance of fostering collaboration between development
+ and operations teams to streamline workflows. It also highlights the cultural 
+changes necessary for successful DevOps adoption, alongside building technical expertise.
+
+Personal Reflection
+I truly value how this course integrates technical tools with the cultural mindset 
+required for DevOps implementation. COMP 3104 has been instrumental in introducing me to 
+GitHub Actions, making workflows and automation more comprehensible. Prior to this, I had 
+no experience with GitHub, so it has been a great learning opportunity.
+
+Course Details
+COMP 3104 - DevOps
+Instructor: Pritesh Patel
+
+By enabling continuous integration and deployment, DevOps ensures faster and more reliable 
+delivery of software updates. This course equips professionals with the skills needed to 
+overcome challenges in modern software development environments.
