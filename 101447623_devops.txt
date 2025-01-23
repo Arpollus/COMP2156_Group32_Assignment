@@ -13,4 +13,5 @@ At the end of the course the student will be abel to demonstrate.
 6. Continuously monitor and optimize DevOps processes through code quality checks and CI/CD pipelines.
 
 7. Develop strategies using Infrastructure as Code and cloud computing for efficient software deployment.
+
 8. Identify market opportunities and integrate security practices into the software development cycle and CI/CD pipelines.
