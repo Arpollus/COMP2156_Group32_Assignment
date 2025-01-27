@@ -3,8 +3,8 @@
 ## Group Members:
 - **Leader:** Prime Bin (101447623) - [GitHub](https://github.com/Arpollus)
 - **Member 1:** Daryl Lim (101486231) - [GitHub](https://github.com/Poref01)
-- **Member 2:** Hoa Vo (101477549) - [GitHub] (https://github.com/Senshi124)
-- **Member 3:** Philip Zhu (101483560) - [GitHub] (https://github.com/101483560)
+- **Member 2:** Hoa Vo (101477549) - [GitHub](https://github.com/Senshi124)
+- **Member 3:** Philip Zhu (101483560) - [GitHub](https://github.com/101483560)
 - **Member 3:** Jorge Sumi () -
 - **Member 3:** Kshitiz Lamsal () -
 
