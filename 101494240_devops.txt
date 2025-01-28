@@ -1,0 +1,3 @@
+The COMP2156 DevOps course at George Brown College is designed to provide students with a comprehensive understanding of DevOps principles, tools, and practices. This course emphasizes collaboration between development and operations teams to streamline the software development lifecycle.
+
+Students gain hands-on experience with tools like Git, Docker, Kubernetes, and CI/CD pipelines, learning how to automate deployments, monitor systems, and ensure high-quality software delivery. By the end of the course, students are equipped with the skills to implement DevOps in real-world projects, bridging the gap between coding and infrastructure management.
