@@ -3,6 +3,6 @@ The COMP2156 DevOps course at George Brown College is designed to provide studen
 
 Students gain hands-on experience with tools like Git, Docker, Kubernetes, and CI/CD pipelines, learning how to automate deployments, monitor systems, and ensure high-quality software delivery. By the end of the course, students are equipped with the skills to implement DevOps in real-world projects, bridging the gap between coding and infrastructure management.
 
-The COMP2156 DevOps course introduces students to industry-standard tools used in DevOps practices. Examples include Docker, a platform for containerizing applications; Kubernetes, a tool for managing and scaling containers; and Jenkins, a popular tool for automating CI/CD pipelines. These tools streamline workflows and enhance collaboration between teams.
+This DevOps course introduces students to industry-standard tools used in DevOps practices. Examples include Docker, a platform for containerizing applications; Kubernetes, a tool for managing and scaling containers; and Jenkins, a popular tool for automating CI/CD pipelines. These tools streamline workflows and enhance collaboration between teams.
 
 For more information about DevOps practices, visit the official DevOps Handbook website:[https://www.devops-handbook.com](https://www.devops-handbook.com).
