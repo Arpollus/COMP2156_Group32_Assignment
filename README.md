@@ -5,8 +5,8 @@
 - **Member 1:** Daryl Lim (101486231) - [GitHub](https://github.com/Poref01)
 - **Member 2:** Hoa Vo (101477549) - [GitHub](https://github.com/Senshi124)
 - **Member 3:** Philip Zhu (101483560) - [GitHub](https://github.com/101483560)
-- **Member 3:** Jorge Sumi () -
-- **Member 3:** Kshitiz Lamsal (101494240) - [GitHub](https://github.com/Kshitizlamsal)
+- **Member 4:** Jorge Sumi () -
+- **Member 5:** Kshitiz Lamsal (101494240) - [GitHub](https://github.com/Kshitizlamsal)
 
 
 ## Project Description
