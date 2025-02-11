@@ -11,3 +11,6 @@ Maze game:
 
 Literally just a pug in a rug:
 |-> https://puginarug.com/
+
+I dont know what this puzzle is called, but its one of those ones where you want to turn on all the lights but all neighbouring lights switch states when a light's state is switched.
+|-> https://clicking.toys/flip-grid/neat-nine/3-holes/
