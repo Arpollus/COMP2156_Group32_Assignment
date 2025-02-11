@@ -5,3 +5,7 @@ Paint with words:
 
 Optical illusions:
 |-> https://paint.toys/calligram/
+
+Maze game:
+|-> https://maze.toys/mazes/mini/daily/
+
