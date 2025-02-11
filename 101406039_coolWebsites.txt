@@ -9,3 +9,5 @@ Optical illusions:
 Maze game:
 |-> https://maze.toys/mazes/mini/daily/
 
+Literally just a pug in a rug:
+|-> https://puginarug.com/
