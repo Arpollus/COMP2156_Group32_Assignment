@@ -3,3 +3,5 @@ DevOps plays a crucial role in the Software Development Life Cycle (SDLC) by bri
 Key benefits of DevOps in SDLC:
 - Faster time to market with automated deployments
 - Improved collaboration and communication
+- Continuous monitoring and feedback for better software quality
+- Reduced risks with incremental releases
