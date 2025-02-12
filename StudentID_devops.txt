@@ -1,5 +1,10 @@
-
-
 COMP 3104 - DevOps focuses on modern software development practices, emphasizing collaboration, automation, and continuous delivery.
 Key topics include:
 - Version Control (Git, GitHub)
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Cloud Computing (AWS, Azure, Google Cloud)
+- Containerization (Docker, Kubernetes)
+- Infrastructure as Code (Terraform, Ansible)
+
+By the end of the course, students will have hands-on experience with DevOps pipelines, improving software quality and delivery speed.
+
