@@ -1,0 +1,3 @@
+COMP 3104 - DevOps:
+
+This course is focused on exploring and learning the best DevOps practices along with some tools and technologies that are required to implement DevOps. By the end of the course, students cshould be prepared to explore job opportunities as a DevOps engineer.
