@@ -1,3 +1,5 @@
 
 
 COMP 3104 - DevOps focuses on modern software development practices, emphasizing collaboration, automation, and continuous delivery.
+Key topics include:
+- Version Control (Git, GitHub)
