@@ -1,3 +1,67 @@
+  GNU nano 7.2                               Studentid_gb.txt
+George Brown College (GBC) is a leading post-secondary institution in Toronto, Canada.
+Key topics include:
+It offers a variety of programs in technology, business, healthcare, and arts.
+With three campuses (Casa Loma, St. James, and Waterfront), GBC provides students with hands-on experi>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           [ Read 4 lines ]
+^G Help       ^O Write Out  ^W Where Is   ^K Cut        ^T Execute    ^C Location   M-U Undo
+^X Exit       ^R Read File  ^\ Replace    ^U Paste      ^J Justify    ^/ Go To Line M-E Redo
 George Brown College (GBC) is a leading post-secondary institution in Toronto, Canada. 
 Key topics include:
 It offers a variety of programs in technology, business, healthcare, and arts. 
